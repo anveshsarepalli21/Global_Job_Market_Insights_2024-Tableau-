@@ -1,6 +1,9 @@
 # Global Job Market Insights (Tableau Dashboard)
 
 An interactive Tableau dashboard that visualizes global hiring demand, salaries, top skills, and work type distribution (Remote / On-site).
+This project presents a comprehensive view of the global job market for 2024 using Tableau.  
+It highlights patterns in hiring demand, salary trends, and skill requirements across countries.  
+The goal is to help job seekers, analysts, and businesses understand where opportunities and skill gaps exist globally.
 
 ---
 
